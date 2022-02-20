@@ -1,0 +1,2 @@
+Preuzeti i staviti u datasets/ime komponente (datasets/fake-news ili dataset/newsrec itd).
+Link: https://1drv.ms/u/s!AjG0RM-P2mQNwFRyBPRHPWQSQ6Ic?e=wTMuIn
